@@ -2,5 +2,5 @@ def greet():
     print("Hello, World!")
 
 
-def james_blunt():
+def farewell():
     print("goodbye my luvahhhh")
